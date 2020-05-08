@@ -1,15 +1,14 @@
 ---
 title: Strona główna
 sections:
-  - section_id: hero
-    type: section_hero
-    title: Hero Section
+  - section_id: tapiso
+    type: section_tapiso
+    title: Tapiso - Procedury
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    Zbiór wszystkich niezbędnych informacji i procedur.
     actions:
-      - label: Get Started
+      - label: Przejdź dalej
         url: docs/index.html
         type: primary
   - section_id: features
