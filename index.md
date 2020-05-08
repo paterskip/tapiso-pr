@@ -1,14 +1,15 @@
 ---
 title: Home
 sections:
-  - section_id: tapiso
-    type: section_tapiso
-    title: Tapiso - Procedury
+  - section_id: hero
+    type: section_hero
+    title: Hero Section
     image: images/5.jpg
     content: >-
-    Zbiór wszystkich niezbędnych informacji i procedur.
+      This section can contain a subtitle or tagline. The recommended length is
+      one to three sentences, but can be changed as you prefer.
     actions:
-      - label: Przejdź dalej
+      - label: Get Started
         url: docs/index.html
         type: primary
   - section_id: features
