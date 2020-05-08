@@ -1,5 +1,5 @@
 ---
-title: Strona główna
+title: Home
 sections:
   - section_id: tapiso
     type: section_tapiso
